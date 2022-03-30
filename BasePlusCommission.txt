@@ -1,0 +1,5 @@
+Commission + Base Payslip for: Clark Kent
+Base Salary: $17000.28
+Commission: $15.6
+Total Salary: $20123.712
+Social Security Number: 7772JK

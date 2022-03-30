@@ -1,0 +1,5 @@
+Hourly Payslip for: Bruce Wayne
+Wage: $879.2
+Hours Worked: 172.0
+Total wage: $151222.4
+Social Security Number: 6640JF
